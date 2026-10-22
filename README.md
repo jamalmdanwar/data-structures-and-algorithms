@@ -27,5 +27,10 @@ Every solution in this repository is treated with the same rigor as a production
 - **Complexity Analysis:** Rigorous Big-O time and auxiliary space evaluation.
 - **Clean Code:** Adherence to professional naming conventions and language-specific best practices (avoiding unnecessary memory overhead).
 
+## 📊 Progress Index
+
+| ID | Title | Pattern / Topic | Language | Time | Space |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 0217 | [Contains Duplicate](./01_Arrays_and_Hashing/0217_Contains_Duplicate.py) | Arrays & Hashing | Python | $O(N)$ | $O(N)$ |
 
 > **Note:** This repository is actively maintained as part of my continuous professional development.
