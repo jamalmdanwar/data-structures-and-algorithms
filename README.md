@@ -32,5 +32,6 @@ Every solution in this repository is treated with the same rigor as a production
 | ID | Title | Pattern / Topic | Language | Time | Space |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 0217 | [Contains Duplicate](./01_Arrays_and_Hashing/0217_Contains_Duplicate.py) | Arrays & Hashing | Python | $O(N)$ | $O(N)$ |
+| 0242 | [Valid Anagram](./01_Arrays_and_Hashing/0242_Valid_Anagram.py)           | Arrays & Hashing | Python | $O(N)$ | $O(N)$ |
 
 > **Note:** This repository is actively maintained as part of my continuous professional development.
