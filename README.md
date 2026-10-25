@@ -31,9 +31,10 @@ Every solution in this repository is treated with the same rigor as a production
 
 | ID | Title | Pattern / Topic | Language | Time | Space |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 0217 | [Contains Duplicate](./01_Arrays_and_Hashing/0217_Contains_Duplicate.py) | Arrays & Hashing | Python | $O(N)$ | $O(N)$ |
-| 0242 | [Valid Anagram](./01_Arrays_and_Hashing/0242_Valid_Anagram.py)           | Arrays & Hashing | Python | $O(N)$ | $O(N)$ |
-| 0001 | [Two Sum](./01_Arrays_and_Hashing/0001_Two_Sum.py)                       | Arrays & Hashing | Python | $O(N)$ | $O(N)$ |
-| 0049 | [Group Anagrams](./01_Arrays_and_Hashing/0049_Group_Anagrams.py)         | Arrays & Hashing | Python | $O(N * M)$ | $O(N * M)$ |
+| 0217 | [Contains Duplicate](./01_Arrays_and_Hashing/0217_Contains_Duplicate.py)                 | Arrays & Hashing | Python | $O(N)$ | $O(N)$ |
+| 0242 | [Valid Anagram](./01_Arrays_and_Hashing/0242_Valid_Anagram.py)                           | Arrays & Hashing | Python | $O(N)$ | $O(N)$ |
+| 0001 | [Two Sum](./01_Arrays_and_Hashing/0001_Two_Sum.py)                                       | Arrays & Hashing | Python | $O(N)$ | $O(N)$ |
+| 0049 | [Group Anagrams](./01_Arrays_and_Hashing/0049_Group_Anagrams.py)                         | Arrays & Hashing | Python | $O(N * M)$ | $O(N * M)$ |
+| 1929 | [Concatenation of Array](./01_Arrays_and_Hashing/1929_Concatenation_of_Array.py)         | Arrays & Hashing | Python | $O(N)$ | $O(N)$ |
 
 > **Note:** This repository is actively maintained as part of my continuous professional development.
