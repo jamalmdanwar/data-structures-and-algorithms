@@ -37,6 +37,7 @@ Every solution in this repository is treated with the same rigor as a production
 | 0049 | [Group Anagrams](./01_Arrays_and_Hashing/0049_Group_Anagrams.py) | Arrays & Hashing | Python | $O(N * M)$ | $O(N * M)$ |
 | 1929 | [Concatenation of Array](./01_Arrays_and_Hashing/1929_Concatenation_of_Array.py) | Arrays & Hashing | Python | $O(N)$ | $O(N)$ |
 | 1299 | [Replace Elements with Greatest Element on Right Side](./01_Arrays_and_Hashing/1299_Replace_Elements_with_Greatest_Element_on_Right_Side.py) | Arrays & Hashing | Python | $O(N)$ | $O(1)$ |
-| 392 | [Is Subsequence](./02_Two_Pointers/0392_Is_Subsequence.py) | Two Pointers | Python | $O(T)$ | $O(1)$ |
+| 0392 | [Is Subsequence](./02_Two_Pointers/0392_Is_Subsequence.py) | Two Pointers | Python | $O(T)$ | $O(1)$ |
+| 0058 | [Length of Last Word](./01_Arrays_and_Hashing/0058_Length_of_Last_Word.py) | Strings | Python | $O(N)$ | $O(1)$ |
 
 > **Note:** This repository is actively maintained as part of my continuous professional development.
