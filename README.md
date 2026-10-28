@@ -39,5 +39,6 @@ Every solution in this repository is treated with the same rigor as a production
 | 1299 | [Replace Elements with Greatest Element on Right Side](./01_Arrays_and_Hashing/1299_Replace_Elements_with_Greatest_Element_on_Right_Side.py) | Arrays & Hashing | Python | $O(N)$ | $O(1)$ |
 | 0392 | [Is Subsequence](./02_Two_Pointers/0392_Is_Subsequence.py) | Two Pointers | Python | $O(T)$ | $O(1)$ |
 | 0058 | [Length of Last Word](./01_Arrays_and_Hashing/0058_Length_of_Last_Word.py) | Strings | Python | $O(N)$ | $O(1)$ |
+| 0347 | [Top K Frequent Elements](./01_Arrays_and_Hashing/0347_Top_K_Frequent_Elements.py) | Arrays & Hashing | Python | $O(N)$ | $O(N)$ |
 
 > **Note:** This repository is actively maintained as part of my continuous professional development.
